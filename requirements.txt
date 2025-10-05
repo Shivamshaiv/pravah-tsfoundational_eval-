@@ -1,0 +1,16 @@
+darts
+meteostat
+holidays
+pytorch-lightning
+torch
+scikit-learn
+pandas
+numpy
+supabase
+pytz
+matplotlib
+seaborn
+# Foundation models (optional - install if available)
+# timesfm
+# uni2ts
+# chronos-forecasting

@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Model checkpoints and outputs
+*.ckpt
+*.pth
+*.pt
+checkpoints/
+lightning_logs/
+results/
+*.log
+
+# Large archive files
+*.zip
+*.tar.gz
+*.7z
+
+# Keep data folder but exclude very large CSVs if needed
+# data/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
